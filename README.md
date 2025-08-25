@@ -1,28 +1,32 @@
-# Proyecto: Café de especialidad en Triple Peaks
 
-Este proyecto es una página web sencilla creada como parte del curso de desarrollo web de TripleTen.
+=======
+# Proyecto CoffeeShop ☕
 
-## Descripción
+Este es un proyecto creado durante el curso de TripleTen.  
+Está desarrollado con **HTML y CSS** utilizando la metodología **BEM** y está desplegado en **GitHub Pages**.
 
-La página web está construida con HTML y CSS utilizando la metodología BEM. Se organizó el CSS en archivos separados por bloques para facilitar su mantenimiento. La página incluye:
+## 🌐 Demo en vivo
 
-- Encabezado con imagen y texto principal.
-- Sección de recetas con dos videos.
-- Formulario para reservar una mesa.
-- Pie de página con redes sociales, logo y derechos de autor.
+👉 [Ver CoffeeShop en GitHub Pages](https://laura-rodriguez06.github.io/web_project_coffeeshop/)
 
-## Tecnologías usadas
+## 🚀 Tecnologías usadas
 
 - HTML5
 - CSS3
-- BEM
-- normalize.css
+- Git & GitHub
 
-## Mejora futura
+## 📌 Planes de mejora
 
-Me gustaría agregar una versión responsive de esta página para que se vea bien en dispositivos móviles, y también aplicar validación al formulario con JavaScript.
+- Hacer la página responsive para móviles y tablets.
+- Agregar animaciones con CSS para mejorar la experiencia de usuario.
+- Optimizar el rendimiento y accesibilidad.
+>>>>>>> 80b5a86 (Actualizo README con link de GitHub Pages)
 
 ## Autor
 
 Laura Rodríguez  
+<<<<<<< HEAD
 © 2024
+=======
+© 2025
+>>>>>>> 80b5a86 (Actualizo README con link de GitHub Pages)
